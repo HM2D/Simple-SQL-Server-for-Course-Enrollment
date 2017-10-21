@@ -1,10 +1,10 @@
 # Simple-SQL-Server-for-Course-Enrollment
-A simple sql server written in java. the program can take input a sql query and retrieve the answer. 
+A simple sql server written in java. the program takes a sql query as input and retrieves the result. 
 
 The Program Takes 4 text files as input.  (Delimiter is the space)
- - Course file which has 2 columns ID, courseName.
- - Student file which has 3 columns Name, FamilyName, ID.
- - StudentCourse file which has 3 columns, SID, CID, TakenFlag.
+ - Course file has 2 columns ID, courseName.
+ - Student file has 3 columns Name, FamilyName, ID.
+ - StudentCourse file has 3 columns, SID, CID, TakenFlag.
  - Input file that contains the queries. 
  
  
